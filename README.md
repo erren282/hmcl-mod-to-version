@@ -1,4 +1,4 @@
-# 下载内容到指定版本
+﻿# 下载内容到指定版本
 
 [![HMCL Plugin](https://img.shields.io/badge/HMCL-plugin-blue)](https://github.com/topics/erren282s-launcher-plugins)
 [![Version](https://img.shields.io/badge/version-1.1.3-green)]()
@@ -289,4 +289,13 @@ java -cp "out-test;out;<HMCL jar>;<JavaFX jars>" org.dsh.modtoversion.DialogShot
 - **1.1.1**：修复窗口最小化时弹窗被撑出窗口、「取消」按钮无法点击的问题——版本列表改为按窗口高度限制并内部滚动。
 - **1.1.0**：新增资源包、光影、世界三个分区（原本只有模组）；标题识别改为跟随启动器语言，不再只认中文/英文；世界走解压安装。
 - **1.0.0**：模组分区的「下载到对应版本」。
+---
 
+## 说明：本项目为 Vibe Coding 产物
+
+**本项目的全部代码均由 AI（大语言模型）生成**，通过对话式编程（vibe coding）完成——
+人类只提出需求、给出反馈与验收，不手写实现代码。
+
+- 代码可能包含未经验证的边界情况、不一致的风格，或与常规工程实践不同的设计取舍
+- 请在生产环境使用前自行审查、测试与评估
+- 欢迎提交 issue 或 PR 改进
